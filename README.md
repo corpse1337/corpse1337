@@ -12,7 +12,7 @@
 <a href="https://discord.gg/3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ghufi" height="30" width="40" /></a>
 </p>
 
-<a href="https://discord.gg/3301" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/960004669109846046.png"/></a>
+<a href="https://discord.gg/3301" target="_blank"> <img src="[https://discord.c99.nl/widget/theme-4/960004669109846046.png](https://discord.c99.nl/widget/theme-4/GhufiPlayZ#1337.png)"/></a>
 
 ## 🔖 My Statistics
 <p align="center">
