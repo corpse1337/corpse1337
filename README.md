@@ -1,4 +1,19 @@
 # CorpsePlayZ
+```py
+import Github
+from GitHub import Readme
+
+class Corpse(Readme):
+    "https://GitHub.com/Corpse1337/GhufiPlayZ/README.md"
+    def __init__(w):
+      w.user.name = "Corpse/Ghufi"
+      w.contact = "https://t.me/ghufiplayz1337"
+      w.user.age = 16
+      w.discord.tag = "GhufiPlayZ#5894"
+      w.user.instagram.tag = "@ghufiiii.x7"
+```
+
+
 <h1 align="center">GhufiPlayZ aka CorpsePlayZ</h1>
 <h3 align="center">A Normal Discord Developer from India</h3>
 
