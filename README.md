@@ -28,3 +28,4 @@ class Corpse(Readme):
 </p>
 
 <a href="https://discord.gg/socials" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/960004669109846046.png"/></a>
+<script src="https://tryhackme.com/badge/1152776"></script>
