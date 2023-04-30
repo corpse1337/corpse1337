@@ -9,15 +9,15 @@ class Corpse(Readme):
       w.user.name = "Corpse/Ghufi"
       w.contact = "https://t.me/ghufiplayz1337"
       w.user.age = 16
-      w.discord.tag = "GhufiPlayZ#5894"
-      w.user.instagram.tag = "@ghufiiii.x7"
+      w.discord.tag = "GhufiPlayZ#6666"
+      w.user.instagram.tag = "@cxrps7w"
 ```
 
 
 <h1 align="center">GhufiPlayZ aka CorpsePlayZ</h1>
 <h3 align="center">A Normal Discord Developer from India</h3>
 
-- Wanna reach me ? **Add GhufiPlayZ#5894 on [discord](https://discord.com/users/960004669109846046) or [instagram](https://www.instagram.com/ghufiiii.x7/)**
+- Wanna reach me ? **Add GhufiPlayZ#6666 on [discord](https://discord.com/users/960004669109846046) or [instagram](https://www.instagram.com/ghufiiii.x7/)**
 
 
 <h3 align="left">Connect with me:</h3>
